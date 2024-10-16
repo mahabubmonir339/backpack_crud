@@ -8,5 +8,13 @@
 </p>
 
 ## Daily Update To Work
-1. Starter Kits >> Laravel Breeze >> how to create login/logout authentication 
+16.10.2024
+1. Starter Kits >> Laravel Breeze >> how to create login/logout authentication .
+2. Deployment >> server.php
+3. MVC Patterns 
+4. Architecture Concepts for Laravel
+   (a) => Request Lifecycle
+
+17.10.2024
+   (b) => Service Container
 
