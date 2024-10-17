@@ -16,5 +16,12 @@
    (a) => Request Lifecycle
 
 17.10.2024
-   (b) => Service Container
+   (b) => Service Container 
+   (c) => Services provider 
+
+18.10.2024
+1. facade of laravel
+2. routing
+3. Route parameter and named route
+4. middleware
 
